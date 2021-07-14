@@ -1,3 +1,2 @@
 # Pet-Classification-Using-2D-CNN
-
-The dataset is collected from [kaggle](https://www.kaggle.com/c/dogs-vs-cats/data)
+The main idea of this project is to classify whether the image is a dog or a cat. The dataset is collected from [kaggle](https://www.kaggle.com/c/dogs-vs-cats/data). The dataset contains a total of 25,000 images out of which 20,000 images were used for training the model and 5,000 images were used for validation. The model is trained using two-dimensional convolutional neural networks. Tensorflow and Keras libraries were used to train the model.
